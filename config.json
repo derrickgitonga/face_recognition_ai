@@ -1,0 +1,11 @@
+{
+    "camera_index": 0,
+    "confidence_threshold": 70,
+    "unknown_faces_dir": "unknown_faces",
+    "save_unknown_faces": true,
+    "log_to_database": true,
+    "detection_scale": 1.1,
+    "min_neighbors": 5,
+    "process_interval": 10,
+    "save_detected_faces": true
+}
